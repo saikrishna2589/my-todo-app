@@ -1,7 +1,7 @@
 
 # variable constants are defined using CAPTITAL letters as standard practice.
 #if file name changes, only this path can be changed and everything works
-FILEPATH="C:/Users/saikr/Documents/pycharm projects/Day Classes/To-Do App/To_do_list.txt"
+FILEPATH="To_do_list.txt"
 
 def get_todo_list(filepath=FILEPATH):
     """This function open the file in the filepath provided ,read all the lines and saves it as a list in a variable
